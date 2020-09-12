@@ -1,5 +1,9 @@
 # Welcome to my github! 👋
 
+<div align="center">
+	<img src = "https://iamrehan.netlify.app/images/top.svg" alt="header">
+</div>
+
 
 ## About me :mortar_board:
 Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and looking to enhance my professional experience with an IT company specializing in web development. Armed with a deep sense of responsibility and possessing very high levels of enthusiasm to give my 110% for any endeavor.
@@ -19,8 +23,8 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
     - Express Js
 
 ## Reach me 
-[LINKED IN](https://www.linkedin.com/in/relativelyrehan/)
-[MAIL](rehan18alam@gmail.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/)
+[MAIL](mailto:rehan18alam@gmail.com)
 
 
 ### Interesting stats
