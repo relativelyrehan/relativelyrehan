@@ -14,7 +14,7 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
 	- Python
 	- Some C/C++
 - **Frontend Development**
-	- HTML & CSS white_check_mark:
+	- HTML & CSS :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
  - **Backend Development**
