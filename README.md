@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src = "https://iamrehan.netlify.app/images/top.svg" alt="header" width="250" height="150">
+	<img src = "https://iamrehan.netlify.app/images/top.svg" alt="header" width="350" height="250">
 </div>
 
 
@@ -24,7 +24,7 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
 
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ||
-[:email:](mailto:rehan18alam@gmail.com)
+[:email:MAIL](mailto:rehan18alam@gmail.com)
 
 
 ### Interesting stats
