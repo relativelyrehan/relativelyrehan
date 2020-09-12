@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src = "https://iamrehan.netlify.app/images/top.svg" alt="header">
+	<img src = "https://iamrehan.netlify.app/images/top.svg" alt="header" width="250" height="150">
 </div>
 
 
@@ -23,8 +23,8 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
     - Express Js
 
 ## Reach me 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/)
-[MAIL](mailto:rehan18alam@gmail.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ||
+[:email:](mailto:rehan18alam@gmail.com)
 
 
 ### Interesting stats
