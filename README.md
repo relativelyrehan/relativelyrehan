@@ -17,7 +17,7 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
 	- HTML & CSS white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
- **Backend Development**
+ - **Backend Development**
     - Node Js
     - MongoDB
     - Express Js
