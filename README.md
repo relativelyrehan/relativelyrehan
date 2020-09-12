@@ -19,8 +19,8 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
     - Express Js
 
 ## Reach me 
-[https://img.shields.io/badge/linkedin----blue](https://www.linkedin.com/in/relativelyrehan/)
-[https://img.shields.io/badge/G-MAIL-RED](rehan18alam@gmail.com)
+[LINKED IN](https://www.linkedin.com/in/relativelyrehan/)
+[MAIL](rehan18alam@gmail.com)
 
 
 ### Interesting stats
