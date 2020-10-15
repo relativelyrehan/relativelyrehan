@@ -29,7 +29,6 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
 
 ### Interesting stats
 
-![Rehan's stats](https://github-readme-stats.vercel.app/api?username=relativelyrehan&show_icons=true)
-![View Count](https://komarev.com/ghpvc/?username=relativelyrehan)
+![Rehan stats](https://github-readme-stats.vercel.app/api?username=relativelyrehan&show_icons=true)
 
 Thanks for stopping by! 😁
