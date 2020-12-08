@@ -24,7 +24,8 @@ Goal-oriented **Web Developer** with a Bachelor's degree in Computer Science and
 
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ||
-[:email:MAIL](mailto:rehan18alam@gmail.com) || [:globe_with_meridians:Website](https://iamrehan.netlify.app/)
+[:email:MAIL](mailto:rehan18alam@gmail.com) || [:globe_with_meridians:Website](https://iamrehan.netlify.app/) ||
+[![DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/relativelyrehan)
 
 
 ### Interesting stats
