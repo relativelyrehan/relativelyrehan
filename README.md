@@ -27,8 +27,7 @@ Front end **Web Developer** solving problems and writing blogs.
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ||
 [:email:MAIL](mailto:rehan18alam@gmail.com) || [:globe_with_meridians:Website](https://iamrehan.netlify.app/) ||
-[![DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =100x20)](https://dev.to/relativelyrehan) ||
-[!{blog](https://xenox.dev)]
+[![🚀](https://xenox.dev)]
 
 
 ### Interesting stats
