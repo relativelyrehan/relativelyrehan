@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src = "https://different-three.vercel.app/01.png" width="350" height="250">
+	<img src = "https://github.com/relativelyrehan/Design/blob/main/public/tie.png" height="400">
 </div>
 
 
