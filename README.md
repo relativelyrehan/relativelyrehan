@@ -25,8 +25,8 @@ Front end **Web Developer** solving problems and writing blogs.
     - Express Js
 
 ## Reach me 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ||
-[:email:MAIL](mailto:rehan18alam@gmail.com) || [:globe_with_meridians:Website](https://iamrehan.netlify.app/) ||
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ·
+[:email:MAIL](mailto:rehan18alam@gmail.com) · [:globe_with_meridians:Website](https://iamrehan.netlify.app/) ·
 [🚀Blog](https://xenox.dev)
 
 
