@@ -31,7 +31,6 @@ Front end **Web Developer** solving problems and writing blogs.
 
 
 ### Interesting stats
-
-![Rehan stats](https://github-readme-stats.vercel.app/api?username=relativelyrehan&show_icons=true)
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=relativelyrehan&show_icons=true&theme=radical&count_private=true)
 
 Thanks for stopping by! 😁
