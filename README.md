@@ -26,7 +26,7 @@ Front end **Web Developer** solving problems and writing blogs.
 
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/relativelyrehan/) ·
-[:email: MAIL](mailto:rehan18alam@gmail.com) · [🌎  Website](https://business-portfolio.vercel.app/) ·
+[:email: MAIL](mailto:rehan18alam@gmail.com) · [🌎  Website](https://relativelyrehan.vercel.app/) ·
 [🚀 Blog](https://xenox.dev)
 
 
