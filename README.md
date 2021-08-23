@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src = "https://github.com/relativelyrehan/Images/blob/master/him.png" height="400">
+	<img src = "https://github.com/relativelyrehan/Images/blob/master/Saly-32.png" height="400">
 </div>
 
 
