@@ -1,6 +1,5 @@
 <div align="center">
-	<img src = "https://user-images.githubusercontent.com/48210765/212149002-e7ad87c0-45de-4125-9eb9-19896061d860.svg" height="400">![Uploading gg.svg…]()
-
+	<img src = "https://user-images.githubusercontent.com/48210765/212149002-e7ad87c0-45de-4125-9eb9-19896061d860.svg" height="400">
 </div>
 
 <h1 align="center">Hi 👋, I'm Rehan</h1>
