@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relativelyrehan&label=Profile%20views&color=0e75b6&style=flat" alt="relativelyrehan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rehan.fun](https://rehan.fun)
+- 👨‍💻 All of my projects are available at [https://devrehan.xyz](https://devrehan.xyz)
 
-- 📝 I regularly write articles on [https://blog.rehan.fun](https://blog.rehan.fun)
+- 📝 I regularly write articles on [https://blog.devrehan.xyz](https://blog.devrehan.xyz)
 
 - 📫 How to reach me **rehan18alam@gmail.com**
 
-- 📄 Know about my experiences [https://rehan.fun/rehan-resume.pdf](https://rehan.fun/rehan-resume.pdf)
+- 📄 Know about my experiences [https://devrehan.xyz/rehan-resume.pdf](https://devrehan.xyz/rehan-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
