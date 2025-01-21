@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **rehan18alam@gmail.com**
 
-- 📄 Know about my experiences [https://devrehan.xyz/rehan-resume.pdf](https://devrehan.xyz/rehan-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
